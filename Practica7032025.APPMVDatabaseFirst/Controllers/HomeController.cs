@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Practica7032025.APPMVDatabaseFirst.Models;
+using System.Diagnostics;
 
 namespace Practica7032025.APPMVDatabaseFirst.Controllers;
 

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Practica7032025.APPMVDatabaseFirst.Models;
+﻿namespace Practica7032025.APPMVDatabaseFirst.Models;
 
 public partial class Empleado
 {
